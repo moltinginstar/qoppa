@@ -4,6 +4,8 @@
 
 A minimal, local AI terminal assistant for `zsh` users.
 
+<https://github.com/user-attachments/assets/f494f61b-d66a-49d1-b35e-524406fbe09e>
+
 ## Usage
 
 ```bash
