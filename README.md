@@ -4,7 +4,7 @@
 
 A minimal, local AI terminal assistant for `zsh` users.
 
-<https://github.com/user-attachments/assets/f494f61b-d66a-49d1-b35e-524406fbe09e>
+<https://github.com/user-attachments/assets/d3b20796-66ff-42e5-b642-7ab6a720b968>
 
 ## Usage
 
